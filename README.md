@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-vector/flat-gamer-room-illustration_23-2148955229.jpg?w=900&t=st=1707288768~exp=1707289368~hmac=566906b0b12dd96a0e470b053040a663aa40905e3790f97f4194341909e38e77)](https://dimdevs.github.io/portfolio)
+[![MasterHead](https://drive.google.com/open?id=1TkdbY-OxU6UWzaWEhqrH70Jw3b_yhlkT)](https://dimdevs.github.io/portfolio)
 <h1 align="center">Hi 👋, I'm Dimas Maulana</h1>
 <h3 align="center">A passionate frontend developer from Indonesian</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" alt="dimdevs.gif" />
