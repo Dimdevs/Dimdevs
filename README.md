@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **[Exenesia](https://exenesia.com/)**
 
-- 👯 I’m looking to collaborate on **DIMDEVS**, **DIPINUS**, **Dirauicode**
+- 👯 I’m looking to collaborate on **DIMDEVS**, **DIPINUS**
 
 - 👨‍💻 All of my projects are available at [https://dimdevs.github.io/portfolio](https://dimdevs.github.io/portfolio)
 
