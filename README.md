@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimdevs&label=Profile%20views&color=0e75b6&style=flat" alt="dimdevs" /> </p>
 
-- 🔭 I’m currently working on [Exenesia](https://exenesia.com/)
+- 🔭 I’m currently working on **[Hijau Digital Internasional](https://hijaudigital.com/)**
 
-- 🌱 I’m currently learning **Exenesia Academy**
+- 🌱 I’m currently learning **[Exenesia](https://exenesia.com/)**
 
 - 👯 I’m looking to collaborate on **Dirauicode** **, DIMDEVS**
 
