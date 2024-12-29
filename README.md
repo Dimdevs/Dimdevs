@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **DIMDEVS**, **DIPINUS**
 
-- 👨‍💻 All of my projects are available at [https://dimdevs.github.io/portfolio](https://dimdevs.github.io/portfolio)
+- 👨‍💻 All of my projects are available at **[Portofolio](https://dimdevs.github.io/portfolio)**
 
 - 💬 Ask me about **WEB, MEARN**
 
